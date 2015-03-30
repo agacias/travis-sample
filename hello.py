@@ -2,11 +2,11 @@
 # -*- coding: UTF-8 -*-
 
 import sys
- 
+
 class Greeter:
     def __init__(self):
-        self.message = 'Hello world!'
-    
+        self.message = 'Hello world !'
+
     def get_message(self):
         return self.message
 
